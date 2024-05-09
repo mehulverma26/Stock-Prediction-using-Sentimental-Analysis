@@ -1,0 +1,13 @@
+numpy
+csv
+pandas
+matplotlib
+tensorflow
+keras
+pickle
+scikit-learn
+nltk
+pydot
+graphviz
+
+Download Graphviz for your system and install the exe file
